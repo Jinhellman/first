@@ -527,4 +527,17 @@ color: #eeeeee;
 @media screen and (max-width: 1073px) {.title-h1{
   font-size: 2rem;
 
-  }}
+  }.all-in-one-h1{
+    font-size: 2rem;
+    }.Sync-button{
+      margin: 64px auto 1px;
+    }.Guest-p{
+      margin-bottom: 36px;
+    }#One-place{
+      padding: 0% 11%;
+    }.Hotels-H1{
+      font-size: 3rem;
+    }.Explore-h1{
+      font-size: 2.1rem;
+    }
+  }
