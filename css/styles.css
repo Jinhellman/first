@@ -539,5 +539,7 @@ color: #eeeeee;
       font-size: 3rem;
     }.Explore-h1{
       font-size: 2.1rem;
+    }.Guests-button{
+      margin-bottom: 16px;
     }
   }
