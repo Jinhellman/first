@@ -388,11 +388,12 @@ line-height: 1.6;
 .Hotels-H1{
   font-weight: lighter;
   padding-bottom: 50px;
+  padding: 70px 0 70px;
 }
 #company{
   background-color: #222831;
   text-align: center;
-  position:
+  padding: 100px;
 }
 .Hotels-icons{
   width:300px;
