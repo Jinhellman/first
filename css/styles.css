@@ -96,10 +96,7 @@ display: table;
 .f1{
    margin-top: 50px;
 }
-*{
-   padding: 0;
-   margin: 0
-}
+
 .crossfade > figure {
    animation: imageAnimation 30s linear infinite 0s;
    backface-visibility: hidden;
@@ -543,3 +540,8 @@ color: #eeeeee;
       margin-bottom: 1px;
     }
   }
+  * {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}
