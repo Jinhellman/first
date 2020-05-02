@@ -8,6 +8,7 @@ h1{
 }
 body{
   font-family: "BPG Arial", sans-serif;
+  position: relative;
 }
 
 a{
@@ -525,5 +526,5 @@ color: #eeeeee;
 
 @media screen and (max-width: 1073px) {.title-h1{
   font-size: 2rem;
-  
+
   }}
