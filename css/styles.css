@@ -157,7 +157,7 @@ display: table;
 #middle-text{
   background-color: #eeeeee;
   text-align: center;
-  position: relative;
+  position:
   z-index: 1;
 }
 .middle-cont{
@@ -393,7 +393,7 @@ line-height: 1.6;
   background-color: #222831;
   padding-bottom: 200px;
   text-align: center;
-  position: relative;
+  position:
 }
 .Hotels-icons{
   width:300px;
